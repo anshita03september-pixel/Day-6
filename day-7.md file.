@@ -1,0 +1,72 @@
+My Claude Usage Strategy
+
+Profile: Student · Primary use case: Coding · Usage frequency: Occasional
+
+
+Recommended Primary Model
+
+Claude Sonnet 5
+
+Why This Model Fits Me
+
+
+As a student using Claude occasionally for coding, Sonnet 5 offers the best balance of quality, speed, and cost.
+It handles everyday coding work — writing functions, debugging, learning new languages — very well.
+Opus-tier reasoning isn't needed for most coursework and would just add unnecessary latency and cost.
+
+
+When to Use Haiku
+
+
+Quick syntax questions ("what does this error mean?")
+Fast one-off snippets, boilerplate, formatting code
+Explaining a short block of code line-by-line
+Anytime speed matters more than depth
+
+
+When to Use Sonnet
+
+
+Your default for almost everything: writing functions, debugging, working through assignments, learning new frameworks, reviewing your own code
+Covers 90%+ of typical student coding work
+
+
+When to Use Opus
+
+
+Genuinely hard problems: system/architecture design, tricky algorithmic bugs, large multi-file refactors, capstone/thesis-level projects
+When you're stuck and Sonnet's answer didn't actually solve it
+Reserve for the ~5–10% of tasks that truly need deeper reasoning
+
+
+
+Recommended Effort Level
+
+
+Note: "Effort" (Low/Standard/High/Max) is primarily an API / Claude Code setting. In the regular claude.ai chat interface, the closest equivalent is the Extended Thinking toggle.
+
+
+
+LevelWhen to UseLowQuick lookups, syntax checks, "does this look right?"StandardYour everyday setting — writing/debugging typical code, explaining concepts, homework helpHighDebugging something subtle, working through logic errors, or when the first answer feels shallowMaxRare, high-stakes moments — big project deadlines, a bug you've been stuck on for a while, complex system design
+
+
+My Personalized Claude Workflow
+
+TaskBest ModelBest EffortReasonQuick syntax/error lookupHaiku 4.5LowFast, cheap, no deep reasoning neededWriting a function/scriptSonnet 5StandardBest balance for everyday codingDebugging a normal bugSonnet 5StandardHandles most logic issues fineDebugging a tricky/subtle bugSonnet 5HighNeeds deeper step-by-step reasoningLearning a new concept/languageSonnet 5StandardClear explanations without overkillBig refactor / system designOpus 4.8HighNeeds stronger architectural reasoningCapstone/thesis-level projectOpus 4.8MaxHighest stakes, worth the extra depth
+
+
+Biggest Mistakes to Avoid
+
+
+Using Opus for everyday coding — wastes time/cost for no real quality gain on simple tasks.
+Leaving effort on High/Max all the time — slower responses for routine work that doesn't need it.
+Using Haiku for genuinely hard problems — you'll get a shallow answer and have to redo it anyway.
+Not escalating when stuck — if Sonnet's answer feels incomplete on a hard problem, switch to Opus or raise effort rather than re-asking the same way.
+
+
+
+Final Recommendation
+
+If you could only pick ONE model + ONE effort level: Sonnet 5 at Standard effort.
+
+As an occasional-use student focused on coding, this combo covers the vast majority of your work — solid code quality, fast responses, low cost. Flip to Opus 4.8 or High/Max effort only when a problem genuinely demands it.
